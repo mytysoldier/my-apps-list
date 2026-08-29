@@ -11,3 +11,4 @@
 | AI Dev Prompt Builder | [💻 GitHub](https://github.com/mytysoldier/ai-dev-prompt-builder) · [🌐 アプリ](https://ai-dev-prompt-builder.vercel.app) | AI開発ツール向けの依頼文をMarkdownで生成 | Web |
 | AI App Incubator | [💻 GitHub](https://github.com/mytysoldier/ai-app-incubator) · [🌐 アプリ](https://ai-app-incubator-rho.vercel.app) | AIアプリのアイデアを育成・管理 | Web |
 | App Opportunity Scout | [💻 GitHub](https://github.com/mytysoldier/app-opportunity-scout) | 市場シグナルから個人開発向けアプリ候補を週次で提案 | GitHub Actions |
+| AGENTS.mdジェネレーター | [💻 GitHub](https://github.com/mytysoldier/agents-md-generator) · [🌐 アプリ](https://agents-md-generator-4vr.pages.dev/) | プロジェクト概要からAIエージェント向けのAGENTS.mdを生成 | Web |
